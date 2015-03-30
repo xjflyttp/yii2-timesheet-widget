@@ -10,7 +10,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/timesheet.js": "*"
+        "bower-asset/timesheet-for-yii2": "*"
     },
     "autoload": {
         "psr-4": {
