@@ -8,9 +8,11 @@
             "email": "xjflyttp@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/timesheet-for-yii2": "*"
+        "bower-asset/timesheet.js": "*"
     },
     "autoload": {
         "psr-4": {
